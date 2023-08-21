@@ -1,0 +1,29 @@
+.op3-headline-wrapper{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.data-op3-contenteditable{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-size: 30px !important;
+}
+
+@media only screen and (max-width: 800px) {
+
+    .op3-headline-wrapper{
+        width: 100%;
+    }
+    .data-op3-contenteditable{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
